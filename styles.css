@@ -1,0 +1,70 @@
+/* Estilos CSS*/
+
+body{
+    font-size: 0.8em;
+    background-color: rgb(245, 236, 208);
+    font-family: Gill, Helvetica, sans-serif
+  }
+
+header {
+    background-color: hsl(27, 79%, 77%);
+    color: rgb(6, 85, 122);
+    text-align: center;
+    padding: 15px;
+    margin: 2%;
+    font-size: medium
+}
+
+section { 
+    margin: 2%;
+}
+
+h2, h3, h4{
+    color: rgb(5, 49, 114);
+    font-size: 20px;
+  }
+
+  h2 { 
+    text-decoration: underline; 
+}
+
+ul { 
+    list-style-type: circle;
+    padding: 2%;
+}
+
+li {
+    margin-bottom: 20px;
+    color: rgb(3, 0, 19);
+    font-size: medium
+}
+
+  p{
+    font-size: medium
+}
+
+  a:link, a:visited{
+    color: #1d055e;
+    text-decoration: underline;
+  }
+  a:hover, a:active{
+    color: #ff0015;
+    text-decoration: none;
+  }
+
+  img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border: 3px  dashed; color: #010538;
+        height: 25vh ;
+    }
+
+    ul {
+        width: auto;
+        height: auto;
+        background-color: rgb(238, 228, 138);
+        margin: 5%
+      }
+
+     
